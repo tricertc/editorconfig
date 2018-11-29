@@ -1,0 +1,23 @@
+{
+  "name": "editorconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "bin": {
+    "editorconfig": "./bin/editorconfig.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tricertc/editorconfig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tricertc/editorconfig/issues"
+  },
+  "homepage": "https://github.com/tricertc/editorconfig#readme"
+}
